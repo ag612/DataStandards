@@ -10,7 +10,7 @@ An updated metadata file should be submitted each time there is a change in the 
 Template for jurisdictions to provide required metadata about their data submission:
 [disease-tracking-metadata-{jurisdiction}.yaml](https://github.com/USDiseaseTracker/DataStandards/blob/main/examples-and-templates/disease-tracking-metadata-%7Bjurisdiction%7D.yaml)
 ### Supporting Guidance
-The [metadata guidance](Metadata_Guidance_Final_20260901.pdf) provides detailed instructions for completing the jurisdiction reporting metadata YAML file used by USDT. It explains:
+The [metadata guidance](Metadata_Guidance_20261123.pdf) provides detailed instructions for completing the jurisdiction reporting metadata YAML file used by USDT. It explains:
 - How to document reporting practices and frequency
 - Diseases to include
 - Geographic reporting structures
